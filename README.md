@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jayanth3146/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jayanth3146/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/jayanth3146/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jayanth3146/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jayanth3146/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayanth3146/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jayanth3146/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jayanth3146/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/jayanth3146/leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jayanth3146/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayanth3146/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jayanth3146/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jayanth3146/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
