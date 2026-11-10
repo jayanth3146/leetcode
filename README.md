@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jayanth3146/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayanth3146/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jayanth3146/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/jayanth3146/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayanth3146/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jayanth3146/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jayanth3146/leetcode/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jayanth3146/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jayanth3146/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jayanth3146/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/jayanth3146/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jayanth3146/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jayanth3146/leetcode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/jayanth3146/leetcode/tree/master/0647-palindromic-substrings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jayanth3146/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/jayanth3146/leetcode/tree/master/0189-rotate-array) |
 ## Newton's Method
 |  |
 | ------- |
