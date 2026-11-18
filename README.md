@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jayanth3146/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/jayanth3146/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jayanth3146/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/jayanth3146/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jayanth3146/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/jayanth3146/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayanth3146/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jayanth3146/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/jayanth3146/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jayanth3146/leetcode/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/jayanth3146/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jayanth3146/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jayanth3146/leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
